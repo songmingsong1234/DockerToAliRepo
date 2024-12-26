@@ -22,4 +22,5 @@ node:18
 openjdk:17
 tomcat:10.1
 mongo:6.0
+python:3.11
 
