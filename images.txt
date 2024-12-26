@@ -14,4 +14,5 @@ redis
 #docker.elastic.co/kibana/kibana:8.17.0
 #sonatype/nexus3:3.53.0
 sonarqube:8.5.1-community
+openjdk:8
 
