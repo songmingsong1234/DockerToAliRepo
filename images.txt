@@ -15,4 +15,11 @@ redis
 #sonatype/nexus3:3.53.0
 sonarqube:8.5.1-community
 openjdk:8
+ubuntu:22.04
+centos:8
+alpine:3.17
+node:18
+openjdk:17
+tomcat:10.1
+mongo:6.0
 
