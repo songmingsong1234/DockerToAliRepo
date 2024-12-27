@@ -13,6 +13,7 @@ redis
 #docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 #docker.elastic.co/kibana/kibana:8.17.0
 #sonatype/nexus3:3.53.0
+sonatype/nexus3:3.70.3
 sonarqube:8.5.1-community
 openjdk:8
 ubuntu:22.04
