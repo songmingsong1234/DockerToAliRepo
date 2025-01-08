@@ -31,5 +31,5 @@
 #sonar-scanner-cli:latest
 #gitlab-runner:latest
 #nginx:latest
-ub.zentao.net/app/zentao:21.3
+hub.zentao.net/app/zentao:21.3
 
