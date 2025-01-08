@@ -31,4 +31,5 @@ openjdk:11
 #sonar-scanner-cli:latest
 #gitlab-runner:latest
 #nginx:latest
+zentao:21.3
 
