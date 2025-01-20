@@ -32,5 +32,4 @@
 #gitlab-runner:latest
 #nginx:latest
 #hub.zentao.net/app/zentao:21.3
-xxl-job:latest
-
+xuxueli/xxl-job-admin:2.4.0
