@@ -13,7 +13,7 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 #docker.elastic.co/kibana/kibana:8.17.0
 #sonatype/nexus3:3.53.0
-sonatype/nexus3:3.76.0
+#sonatype/nexus3:3.76.0
 #sonarqube:8.5.1-community
 #openjdk:8
 #openjdk:11
@@ -31,5 +31,6 @@ sonatype/nexus3:3.76.0
 #sonar-scanner-cli:latest
 #gitlab-runner:latest
 #nginx:latest
-hub.zentao.net/app/zentao:21.3
+#hub.zentao.net/app/zentao:21.3
+xxl-job:latest
 
