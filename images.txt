@@ -3,6 +3,7 @@
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
+nacos/nacos-server:v2.2.3
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
@@ -33,5 +34,4 @@
 #nginx:latest
 #hub.zentao.net/app/zentao:21.3
 #xuxueli/xxl-job-admin:2.4.0
-nacos:2.2.3
 
