@@ -35,5 +35,5 @@ busybox:1.36.1
 #gitlab-runner:latest
 #nginx:latest
 #hub.zentao.net/app/zentao:21.3
-xuxueli/xxl-job-admin
+xuxueli/xxl-job-admin:latest
 
