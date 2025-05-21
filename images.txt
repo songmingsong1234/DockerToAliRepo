@@ -26,7 +26,7 @@ busybox:1.36.1
 #node:18
 #openjdk:17
 #tomcat:10.1
-#mongo:6.0
+mongo:6.0
 #python:3.11
 #sonarqube:7.8-community
 #bkrepo/bkrepo-base:0.0.2
@@ -35,5 +35,5 @@ busybox:1.36.1
 #gitlab-runner:latest
 #nginx:latest
 #hub.zentao.net/app/zentao:21.3
-xuxueli/xxl-job-admin:latest
+#xuxueli/xxl-job-admin:latest
 
