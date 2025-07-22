@@ -4,6 +4,7 @@
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #nacos/nacos-server:v2.2.3
+nacos/nacos-server:v3.0.2
 busybox:1.36.1
 
 #redis
