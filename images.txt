@@ -4,9 +4,9 @@
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #nacos/nacos-server:v2.2.3
-nacos/nacos-server:v3.0.2
-busybox:1.36.1
-
+#nacos/nacos-server:v3.0.2
+#busybox:1.36.1
+leantime/leantime:3.5.11
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
