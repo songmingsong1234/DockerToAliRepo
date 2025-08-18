@@ -7,6 +7,7 @@
 #nacos/nacos-server:v3.0.2
 #busybox:1.36.1
 leantime/leantime:3.5.11
+openproject/openproject:15
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
