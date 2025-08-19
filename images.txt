@@ -6,8 +6,8 @@
 #nacos/nacos-server:v2.2.3
 #nacos/nacos-server:v3.0.2
 #busybox:1.36.1
-leantime/leantime:3.5.11
-openproject/openproject:15
+#leantime/leantime:3.5.11
+#openproject/openproject:15
 #redis
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
@@ -28,7 +28,7 @@ openproject/openproject:15
 #node:18
 #openjdk:17
 #tomcat:10.1
-mongo:6.0
+#mongo:6.0
 #python:3.11
 #sonarqube:7.8-community
 #bkrepo/bkrepo-base:0.0.2
@@ -38,4 +38,10 @@ mongo:6.0
 #nginx:latest
 #hub.zentao.net/app/zentao:21.3
 #xuxueli/xxl-job-admin:latest
-
+postgres:12.3
+taigaio/taiga-back:latest
+rabbitmq:3.8-management-alpine
+taigaio/taiga-front:latest
+taigaio/taiga-events:latest
+taigaio/taiga-protected:latest
+nginx:1.19-alpine
